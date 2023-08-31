@@ -2,7 +2,6 @@
 <h4 align="center">Estudiante de Desarrollo Web Full-Stack.</h4>
 <hr>
 <p align='left'><h3>📚⌛ Hobbies: </h3>
-  <p align='left'> En mis tiempos libres me dedico a jugar D&D con mis amigos, creando personajes y escribiendo aventuras. También, me pongo a prueba en el tatami practicando Jiu-Jitsu, donde cada lucha es similar a escribir o resolver problemas de código, la mente equilibrada es esencial para superar cualquier desafío y aprender de mis errores.</p>
   -Dungeons & Dragons ⚔ <br>
   -Jiu-Jitsu🥋🐱‍👤<br>
   -Leer📖
