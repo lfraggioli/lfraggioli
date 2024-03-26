@@ -1,12 +1,11 @@
-<h1 align="left">Lucas Fraggioli 🐱‍👤</h1>
-<h4 align="left">Digital Craftsman (Desarrollador Full-Stack/Diseñador)</h4>
+<h1 align="center">Lucas Fraggioli ⚔️🛡️</h1>
+<h3 align="center">Frontend Developer | UX/UI Designer</h3>
 <hr>
 <p>En la actualidad, me dedico principalmente al desarrollo en JavaScript. Mi trayectoria en la programación comenzó con lenguajes como Java y C++, proporcionándome bases sólidas en los conceptos de la Programación Orientada a Objetos.
 </p>
 <p align='left'><h4>⌛ Hobbies: </h4>
-  -Dungeons & Dragons ⚔ <br>
-  -Jiu-Jitsu🥋<br>
-  -Literatura📖
+  -Dungeons & Dragons ⚔️🎲🧙🏻‍♂️ <br>
+  -Jiu-Jitsu🥋🤼‍♂️<br>
 </p>
 <hr>
 <div align='left'><h4>📚Aprendiendo:</h4>
