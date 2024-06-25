@@ -4,7 +4,7 @@
 <p align='left'><h4>⌛ Hobbies 👇🏻 </h4>
 </p>
 <ul>
-  <li>Dungeons & Dragons⚔️🎲🧙🏻‍♂️</li>
+  <li>Tabletop RPG⚔️🎲🧙🏻‍♂️</li>
   <li>Jiu-Jitsu🥋🤼‍♂</li>
 </ul>
 <hr>
