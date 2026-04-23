@@ -1,31 +1,61 @@
-<h1 align="center">Lucas Fraggioli ⚔️🛡️</h1>
-<h3 align="center">Frontend Developer | UX/UI Designer</h3>
-<hr>
-<p align='left'><h4>⌛ Hobbies 👇🏻 </h4>
-</p>
-<ul>
-  <li>Tabletop RPG⚔️🎲🧙🏻‍♂️</li>
-  <li>Jiu-Jitsu🥋🤼‍♂</li>
-</ul>
-<hr>
-
-
 <div align="center">
-<h3 align="center">My main stack (and personal favourites):</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <br>
-</div>
-<p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lfraggioli&show_icons=true&locale=en&layout=compact" alt="lfraggioli" /></p>
-<br>
-<hr>
-<div align="center">
-  
-<h3>Contact me:</h3>
 
-<a target="_blank" href="mailto:fraggioli.lucas@gmail.com"><img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://linkedin.com/in/lucasfraggioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfraggioli" height="30" width="40" /></a>
+# Lucas Fraggioli
+
+**Fullstack Developer · Fintech · Buenos Aires 🇦🇷**
+
+[![Gmail](https://img.shields.io/badge/fraggioli.lucas-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fraggioli.lucas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/lucasfraggioli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasfraggioli)
+
 </div>
+
+---
+
+Fullstack developer con +2 años de experiencia construyendo **sistemas de misión crítica** en una ALYC (fintech regulada argentina). Arranqué como frontend, hoy manejo features end-to-end: desde suite de backoffice, a portales públicos hasta generación de PDFs de reportes de movimientos financieros y operaciones de clientes. 
+<br/>
+⚔️ Aprendí que lo difícil de construir software no es el código — es la comunicación y la confianza entre quienes lo escriben. Mi filosofía de trabajo gira alrededor de ese principio.
+
+---
+
+### 🛠️ Stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=fff" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=000" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff" />
+      <img src="https://img.shields.io/badge/SQS/SNS-FF9900?style=flat&logo=amazonsqs&logoColor=fff" />
+      <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Arquitectura</b></td>
+    <td>
+      <code>Hexagonal</code> <code>CQRS</code> <code>DDD</code> <code>Event-Driven</code> <code>Result Monad</code> <code>Repository Pattern</code>
+    </td>
+  </tr>
+</table>
+
