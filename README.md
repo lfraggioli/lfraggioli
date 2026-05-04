@@ -11,12 +11,11 @@
 
 ---
 
-Fullstack developer con +2 años de experiencia construyendo **sistemas de misión crítica** en una ALYC (fintech regulada argentina). Arranqué como frontend, hoy manejo features end-to-end: desde suite de backoffice, a portales públicos hasta generación de PDFs de reportes de movimientos financieros y operaciones de clientes. 
+Fullstack developer with 2+ years of experience building mission-critical systems at an ALYC (Argentine regulated fintech). I started out in frontend; today I own end-to-end features: from back-office suites and public-facing portals to PDF generation for financial transaction and client operations reports.
 <br/>
-⚔️ Aprendí que lo difícil de construir software no es el código — es la comunicación y la confianza entre quienes lo escriben. Mi filosofía de trabajo gira alrededor de ese principio.
+⚔️ I learned that the hard part of building software isn't the code — it's the communication and trust between the people who write it. My work philosophy revolves around that principle.
 
 ---
-
 ### 🛠️ Stack
 
 <table>
